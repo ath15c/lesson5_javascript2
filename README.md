@@ -13,8 +13,7 @@ Web Application Development
 (In this assignment, we created a program that estimates the users tax bracket.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://ath15c.github.io/lesson5_javascript2/ 
 
 ### Lessons Learned in the Assignment:
 1. (I learned how to use arrays.)
